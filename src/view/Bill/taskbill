@@ -1,0 +1,27 @@
+
+{/* <CustomTabs
+            headerColor="info"//"warning","success","danger","info","primary","rose"
+            tabs={[
+              {
+                tabName: "Hóa đơn điện",
+                tabIcon: BugReport,
+                tabContent: (
+                  <TableList/>
+                )
+              },
+              {
+                tabName: "Hóa đơn nước",
+                tabIcon: Code,
+                tabContent: (
+                  <TableList/>
+                )
+              },
+              {
+                tabName: "Server",
+                tabIcon: Cloud,
+                tabContent: (
+                  <TableList/>
+                )
+              }
+            ]}
+          /> */}
